@@ -33,7 +33,7 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
 		/// ↓描画処理ここから
 		///
 
-		Novice::ScreenPrintf(30, 30, "cccc");
+		Novice::ScreenPrintf(30, 30, "LC1A_23_ﾏｻｷ_ﾊﾙｶ");
 
 		///
 		/// ↑描画処理ここまで
