@@ -40,6 +40,9 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
 
 		Novice::ScreenPrintf(30,100,"プルリクエスト、お願いします。")
 
+		Novice::ScreenPrintf(30, 100, "嫌です、マージしません")
+
+
 		///
 		/// ↑描画処理ここまで
 		///
