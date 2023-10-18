@@ -36,6 +36,8 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
 		Novice::ScreenPrintf(30, 30, "LC1A_23_ﾏｻｷ_ﾊﾙｶ");
 		Novice::ScreenPrintf(30, 60, "2023/10/11");
 
+		Novice::ScreenPrintf(30, 80, "2023/10/18");
+
 
 		///
 		/// ↑描画処理ここまで
