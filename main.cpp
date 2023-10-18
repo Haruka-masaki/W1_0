@@ -38,6 +38,7 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
 
 		Novice::ScreenPrintf(30, 80, "2023/10/18");
 
+		Novice::ScreenPrintf(30,100,"プルリクエスト、お願いします。")
 
 		///
 		/// ↑描画処理ここまで
