@@ -46,6 +46,8 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
 		Novice::ScreenPrintf(30, 140, "プルしてから作業するようにします。");
 
 
+
+
 		///
 		/// ↑描画処理ここまで
 		///
