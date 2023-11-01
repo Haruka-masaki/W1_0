@@ -50,6 +50,7 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
 
 
 
+
 		///
 		/// ↑描画処理ここまで
 		///
