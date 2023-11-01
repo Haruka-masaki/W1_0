@@ -45,7 +45,7 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
 
 		Novice::ScreenPrintf(30, 140, "プルしてから作業するようにします。");
 
-		Novice::ScreenPrintf(30, 140, "気を付けます！");
+		Novice::ScreenPrintf(30, 140, "コンフリクトしちゃうよ");
 
 
 
